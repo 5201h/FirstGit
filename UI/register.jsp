@@ -8,5 +8,6 @@
 </head>
 <body>
 注册
+fixe #2
 </body>
 </html>
